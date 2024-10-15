@@ -15,24 +15,45 @@ My name is Georgii Chaklyarov. I'm a python developer. Now I work as a python en
 
 ## 🎓 Education
 
-- 🎓 Master's Degree of Computer Science, Saint Petersburg State University (Artificial Intelligence and Big Data Technologies), 2022 - 2024
-- 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022
+- 🎓 Master's Degree of Computer Science, Saint Petersburg State University (Artificial Intelligence and Big Data Technologies), 2022 - 2024. [Graduation work](https://github.com/4eckah78/neural_network_approach_for_video_content_compression)
+- 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022. [Graduation work](https://github.com/4eckah78/weather_routing)
+
+## 🚀 Favorite projects
+
+- 🚀 Kern image segmentation and classification, mine is [backend part, Django, DRF, SQL](https://github.com/DreamTeamInc/Core-backend/tree/master)
+- 🚀 App for employee attendance control, mine is [backend part, Django, DRF, SQL](https://github.com/4eckah78/api-attendance)
+- 🚀 JS, TS, React project for time managment, mine is [frontend part](https://bitbucket.org/batchy/client/src/master)
+- 🚀 [Simple Demo App](https://github.com/4eckah78/grid_and_cloud_computing) with comparasing time pf requests to mongoDB locally, in cloud and in docker with [video in English](https://www.youtube.com/watch?v=WQf3D2zHAdM)
+- 🚀 [Pandas analysis and Dimensional reduction experiments](https://github.com/4eckah78/machine-learning/blob/main/homework1.ipynb)
+- 🚀 [Face and eyes localization](https://github.com/4eckah78/biometrics/tree/main/task_1), [Face with mask localization](https://github.com/4eckah78/biometrics/tree/main/task_2), [Picture's author classification](https://github.com/4eckah78/biometrics/tree/main/task_3)
+- 🚀 [Pictire segmentation to background and object with the algorithm for finding the minimum cut](https://github.com/4eckah78/picture_segmentation)
+- 🚀 [Simple python packet with pandas weather analysis](https://github.com/4eckah78/typical_python_project)
+- 🚀 [Python data analysis](https://github.com/4eckah78/python_2022_practice/blob/main/Task_3.ipynb), [maths with python](https://github.com/4eckah78/python_2022_practice/blob/main/Task_1.ipynb), [numpy, numba, Cython, taichi](https://github.com/4eckah78/python_2022_practice/blob/main/Task_2.ipynb)
+- 🚀 [Simple telegram bot](https://github.com/4eckah78/simple_telegram_bot)
+- 🚀 [Telegram bot with "audio/video to text" functionality](https://github.com/4eckah78/speech_recognition_and_summarization_project)
+- 🚀 [Api vk.com web-crawler with analysis](https://github.com/4eckah78/Web-rawler)
 
 ## 🔧 Core Skills and Tools
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/-C++-000?&logo=C++" alt="C++" width="100" />
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="100" />
-  <img src="https://img.shields.io/badge/-JavaScript-000000?logo=JavaSctipt&logoColor=purple" alt="JavaSctipt" width="40" />
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" width="120" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?logo=JavaSctipt&logoColor=purple" alt="JavaSctipt" width="90" />
+  <img src="https://img.shields.io/badge/-C++-000?&logo=C++" alt="C++" width="30" />
 </p>
 
 ### Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/-Django-000000?logo=django&logoColor=green" alt="Django" width="100"/>
-  <img src="https://img.shields.io/badge/-FastAPI-000000?logo=fastapi&logoColor=deap+teal" alt="FastAPI" width="102"/>
   <img src="https://img.shields.io/badge/-Pytest-000000?logo=pytest&logoColor=white" alt="PyTest" width="95"/>
-  <img src="https://img.shields.io/badge/-Scrapy-000000?logo=scrapy&logoColor=green" alt="Scrapy" width="100"/>
+  <img src="https://img.shields.io/badge/-Numpy-000000?logo=numpy&logoColor=green" alt="Numpy" width="100"/>
+  <img src="https://img.shields.io/badge/-Open3d-000000?logo=Open3d&logoColor=blue" alt="Open3d" width="100"/>
+  <img src="https://img.shields.io/badge/-Scrapy-000000?logo=scrapy&logoColor=yellow" alt="openCV" width="100"/>
+  <img src="https://img.shields.io/badge/-Scipy-000000?logo=scipy&logoColor=red" alt="scipy" width="100"/>
+  <img src="https://img.shields.io/badge/-Sklearn-000000?logo=sklearn&logoColor=purple" alt="sklearn" width="100"/>
+  <img src="https://img.shields.io/badge/-Pandas-000000?logo=pandas&logoColor=pink" alt="pandas" width="100"/>
+  <img src="https://img.shields.io/badge/-Pytorch-000000?logo=pytorch&logoColor=dark" alt="pytorch" width="100"/>
+  <img src="https://img.shields.io/badge/-Tensorflow-000000?logo=tensorflow&logoColor=red" alt="tensorflow" width="100"/>
 </p>
 
 ### Databases

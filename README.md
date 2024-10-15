@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h2>I'm George!<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc5ZHZ6OGs1bGxpcWxqY2lkb3k4cGN6enE3dWdvbDU1OXVheWczcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLEdq1A9PT0BZo27s3/giphy.gif" width="40"></h2>
+<h2>I'm George!  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc5ZHZ6OGs1bGxpcWxqY2lkb3k4cGN6enE3dWdvbDU1OXVheWczcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RLEdq1A9PT0BZo27s3/giphy.gif" width="30"></h2>
 <div>
 <a href="https://t.me/george_joker" target="_blank" rel="nofollow"><img align="left" alt="Andrew's Twitter" width="30px" src="https://img.icons8.com/nolan/344/telegram-app.png"/></a>
 </div>  

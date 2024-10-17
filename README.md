@@ -18,6 +18,13 @@ My name is Georgii Chaklyarov. I'm a python developer. Now I work as a python en
 - 🎓 Master's Degree of Computer Science, Saint Petersburg State University (Artificial Intelligence and Big Data Technologies), 2022 - 2024. [Graduation work](https://github.com/4eckah78/neural_network_approach_for_video_content_compression)
 - 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies), 2018 - 2022. [Graduation work](https://github.com/4eckah78/weather_routing)
 
+
+## 🎓 Experience
+
+- 💡 2021-2023, LG Electronics Inc. Russia R&D Lab, Junior Developer
+- 💡 2024-present, LLC SkillTellect, Python Developer
+
+
 ## 🚀 Favorite projects
 
 - 🚀 Kern image segmentation and classification, mine is [backend part, Django, DRF, SQL](https://github.com/DreamTeamInc/Core-backend/tree/master)
